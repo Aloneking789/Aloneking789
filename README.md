@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloneking789&label=Profile%20views&color=0e75b6&style=flat" alt="aloneking789" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aloneking789" alt="aloneking789" width="160" height="60"  /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aloneking789" alt="aloneking789" width="640" height="140"  /></a> </p>
 
 - 👨‍💻 All of my projects are available at [http://whiterose.infinityfreeapp.com/](http://whiterose.infinityfreeapp.com/)
 
