@@ -2,7 +2,6 @@
 [![banner](https://i.ibb.co/zXKQ3zc/GC-arcade-header-images-desktop-x3-v2123.png)](https://i.ibb.co/zXKQ3zc/GC-arcade-header-images-desktop-x3-v2123.png)
 <h1 align="center">Hi 👋, I'm Abhay Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloneking789&label=Profile%20views&color=0e75b6&style=flat" alt="aloneking789" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aloneking789" alt="aloneking789" /></a> </p>
@@ -14,7 +13,14 @@
 - 📫 How to reach me **robertsteeve789@gmail.com**
 
 - ⚡ Fun fact **Stand Alone to Stand Apart**
-
+<h3 align="left">Acheivements:</h3>
+<a href="https://holopin.io/@kochie">
+  <img
+    src="https://holopin.me/aloneking789"
+    alt="@aloneking789's Holopin board"
+    class="rounded-xl cursor-pointer grayscale-50 hover:grayscale-0 transform-gpu duration-200"
+  />
+</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhay-pandey-595818253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhay-pandey-595818253/" height="30" width="40" /></a>
