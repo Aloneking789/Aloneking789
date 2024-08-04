@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Stand Alone to Stand Apart**
 <h3 align="left">Acheivements:</h3>
-<a href="https://holopin.io/@kochie">
+<a href="https://www.holopin.io/@aloneking789#holobytes">
   <img
     src="https://holopin.me/aloneking789"
     alt="@aloneking789's Holopin board"
