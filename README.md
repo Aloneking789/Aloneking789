@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **robertsteeve789@gmail.com**
 
-- ⚡ Fun fact **Every "Hello, World!" a developer writes is a step closer to creating something extraordinary. Keep coding, keep growing! 🚀**
+- ⚡ Fun fact **Every "Hello, World!" a developer writes is a step closer to creating something extraordinary. Keep coding, keep growing**
 <h3 align="left">Acheivements:</h3>
 <a href="https://www.holopin.io/@aloneking789#holobytes">
   <img
